@@ -1,0 +1,1 @@
+module.exports = `Regresando al menú principal...`

@@ -1,0 +1,14 @@
+node_modules/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.dev
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+media/*.png
